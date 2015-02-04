@@ -1,0 +1,17 @@
+node_modules
+builds/
+components/images/
+.classpath
+.project
+.settings/
+data/
+sql/
+target/
+.springBeans
+src/main/resources/
+src/main/webapp/lib
+example/
+.externalToolBuilders/
+*.log
+logs/
+
